@@ -4,3 +4,25 @@ description: Minimal is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+
+title: <p align="center"> Kajal Singha Mahata </p>
+logo: /assets/img/logo.png
+
+description:
+  <p align="center">
+ 
+  <a href="https://www.linkedin.com/in/kajal-singha-mahata-967a9327/">LinkedIn</a> |
+  <a href="https://github.com/kajalmahata123">GitHub</a>
+  
+  <br>   
+ Professional, seasoned, and skilled programmer/software developer working on a number of enterprise applications.
+I am skilled at addressing problems and bridging the gap between technical and business viewpoints. I work well with others, pay attention to details, and can handle pressure. Self-starter and very motivated, able to learn new technologies and processes, highly conceptual, and outstanding communicator with excellent interpersonal, organizational, and teamwork abilities.
+In-depth knowledge of all stages of the software life cycle, including analysis, design, development, and maintenance from concept through computer software implementation. Using third-party API hands-on, test-driven programming, fixing bugs, integrating and testing, building, deploying, and supporting.
+
+Responsibility, creativity, innovation, and teamwork are positive traits. renowned for quickly learning new skills, technology, and functions and producing outcomes. Self-starter, very motivated, able to learn new technologies and processes, highly conceptual, and outstanding communicator with excellent interpersonal, organizational, and teamwork abilities.
+  <br>
+  </p>
+
+
+
+theme: jekyll-theme-minimal
